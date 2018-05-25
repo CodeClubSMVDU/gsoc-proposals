@@ -8,6 +8,8 @@
 
 - Performance Co-Pilot - Parth Verma - [Mac OS X Installer](https://docs.google.com/document/d/1KBHJZRmh2l96_6eF85wblcJ7fqv9c7DEvxYzyWxxxRI/edit?usp=sharing)
 
+- Plone - Nilesh Gulia - [Create-react-app for plone-react](https://docs.google.com/document/d/1XUJKc37KisiAA-NMVbSrTMOiqf1RFlpIzF-v94O6XcM/edit)
+
 ## 2017
 
 ## 2016
