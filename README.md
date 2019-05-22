@@ -4,7 +4,7 @@
 
 ## 2019
 
-- Mozilla - Mritunjay Goutam - [Common Voice - WebAssembly MP3 Encoding](https://github.com/CodeClubSMVDU/gsoc-proposals/blob/master/GSOC-mozilla-CVW.pdf)
+- Mozilla - Mritunjay Goutam - [Common Voice - WebAssembly MP3 Encoding](https://github.com/CodeClubSMVDU/gsoc-proposals/blob/master/proposals/GSOC-mozilla-CVW.pdf)
 
 ## 2018
 
