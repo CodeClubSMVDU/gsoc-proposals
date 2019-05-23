@@ -6,6 +6,8 @@
 
 - Mozilla - Mritunjay Goutam - [Common Voice - WebAssembly MP3 Encoding](https://github.com/CodeClubSMVDU/gsoc-proposals/blob/master/proposals/GSOC-mozilla-CVW.pdf)
 
+- Mifos - Moksh Mahajan - [Android Field Operations App Version 6.pdf ](https://github.com/CodeClubSMVDU/gsoc-proposals/blob/master/proposals/Android%20Field%20Operations%20App%20Version%206.pdf)
+
 ## 2018
 
 - coala - Shrikrishna Singh - [Newcomer Metrics and Gamification](https://docs.google.com/document/d/13XtTEC5VYwLnuHnRiAU1YcZ9CHOhSYD0qJ4VnPPp4_c/edit)
