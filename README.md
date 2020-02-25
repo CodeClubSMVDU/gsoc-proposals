@@ -8,6 +8,8 @@
 
 - Mifos - Moksh Mahajan - [Android Field Operations App Version 6.pdf ](https://github.com/CodeClubSMVDU/gsoc-proposals/blob/master/proposals/Android%20Field%20Operations%20App%20Version%206.pdf)
 
+- Plone - Alok Kumar - [Plone-GatsbyJs-Preview](https://docs.google.com/document/d/1rJzQZPcQgWAXaBZLW3Rl2pw48SfTAesaNmCmGkn6irg/edit?usp=sharing)
+
 ## 2018
 
 - coala - Shrikrishna Singh - [Newcomer Metrics and Gamification](https://docs.google.com/document/d/13XtTEC5VYwLnuHnRiAU1YcZ9CHOhSYD0qJ4VnPPp4_c/edit)
