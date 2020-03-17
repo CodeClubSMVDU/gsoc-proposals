@@ -3,6 +3,10 @@
 ### Here you can find all the proposal link of selected gsoc students of SMVDU year wise
 
 ## 2019
+
+- EOS Design System - Abhinandan Sharma [Designing and Coding EOS-Icons Landing webpage from scratch]
+(https://docs.google.com/document/d/1_I5eclNhFFMlViVtqALEk4U7kgATtAcYtiznFg1FfEw/edit?usp=sharing)
+
 - INCF - Nakul Bharti [Visualize a large Connectome](https://docs.google.com/document/d/13zS_h5Jz6iqvCccLsbqMoTcuZwov2qaPoyeU0CeKyaw/edit?usp=sharing)
 
 - Mozilla - Mritunjay Goutam - [Common Voice - WebAssembly MP3 Encoding](https://github.com/CodeClubSMVDU/gsoc-proposals/blob/master/proposals/GSOC-mozilla-CVW.pdf)
