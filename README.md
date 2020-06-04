@@ -16,6 +16,8 @@
 
 - Moodle - Sanya Negi- [Adding Regressor to machine learning backend](https://docs.google.com/document/d/1PD-yHOFPrkEJpxCO19sbmCCLnVd12DMIG45B4C7BKdI/edit?usp=sharing)
 
+- LibreOffice - Shubham Goyal- [QR Code Generator in LibreOffice](https://docs.google.com/document/d/1QoJ3sJxOEjfMDS6iv2nu6vW9tlSq6TRbqIj4hMnhBSQ/edit?usp=sharing)
+
 ## 2018
 
 - coala - Shrikrishna Singh - [Newcomer Metrics and Gamification](https://docs.google.com/document/d/13XtTEC5VYwLnuHnRiAU1YcZ9CHOhSYD0qJ4VnPPp4_c/edit)
