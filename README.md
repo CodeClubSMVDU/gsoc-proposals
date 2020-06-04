@@ -28,4 +28,6 @@
 - PSF(Mercurial) - Sushil Khanchi - [Add dry-run functionality to each write command](https://docs.google.com/document/d/1qIVk9Y42WHjiD5H2DdM4kwHp7_YVZlNjVzjRXhe7aH8/edit?usp=sharing)
 ## 2017
 
+- KDE Kopete - Vijay Krishnavanshi - [Add Autotests to Kopete and Improve Protocol Support](https://docs.google.com/document/d/1-KIAHPWpSimGsDY42bLKW2yVCs5VTzxOObGa1maYZf4/edit?usp=sharing)
+
 ## 2016
