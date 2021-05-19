@@ -6,6 +6,12 @@
 
 - EOS Design System - Vinayak Sharma [EOS Icons react library](https://docs.google.com/document/d/1vPoxmkC3vPjBSDOpW4CdYqoTtDp7uPVOMxaDanwHfd8/edit?usp=sharing)
 
+- VideoLAN - Anubhav Singh [VLC-iOS UI](https://docs.google.com/document/d/1DxzhDZW7ex7ofH5EbaETFfZqJYoMaL4g-WGQn0DPVeg/edit?usp=sharing)
+
+## 2020
+
+- Amahi - Anubhav Singh [Amahi-iOS](https://docs.google.com/document/d/1DvkJbJkW1_yxVM_JHj_sv9TxCfHicyYi9jRbdR4HKEY/edit?usp=sharing)
+
 ## 2019
 
 - EOS Design System - Abhinandan Sharma [Icons and EOS webpage](https://docs.google.com/document/d/1gAqWpp5w_NpLpE-Yf9jJTUVKIrjp4P3QGpXhQ_cFYm8/edit?usp=sharing)
@@ -37,3 +43,4 @@
 - KDE Kopete - Vijay Krishnavanshi - [Add Autotests to Kopete and Improve Protocol Support](https://docs.google.com/document/d/1-KIAHPWpSimGsDY42bLKW2yVCs5VTzxOObGa1maYZf4/edit?usp=sharing)
 
 ## 2016
+
