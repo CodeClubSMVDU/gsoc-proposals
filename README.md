@@ -15,6 +15,7 @@
 ## 2020
 
 - Amahi - Anubhav Singh [Amahi-iOS](https://docs.google.com/document/d/1DvkJbJkW1_yxVM_JHj_sv9TxCfHicyYi9jRbdR4HKEY/edit?usp=sharing)
+- EOS Design System - Adiya Sharma [EOS-icons - feature/icon request [backend]](https://docs.google.com/document/d/1U9AXtf27sxSUkLCn2ExSpAIk6j-xgCNE7K-kTOFcn8E/edit?usp=sharing)
 
 ## 2019
 
