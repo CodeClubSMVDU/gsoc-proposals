@@ -8,6 +8,10 @@
 
 - VideoLAN - Anubhav Singh [VLC-iOS UI](https://docs.google.com/document/d/1DxzhDZW7ex7ofH5EbaETFfZqJYoMaL4g-WGQn0DPVeg/edit?usp=sharing)
 
+- GA4GH - Rohan Gupta [Dynamic computation of variant annotations using GA4GH Variant Annotations plus FHIR Genomics](https://docs.google.com/document/d/1dGJY1hlc9hn247tfiaW6qX7wPT5eE46BgaWOYc_zUO0/edit?usp=sharing)
+
+- Casbin - Mohit Singh [Dart-Casbin](https://docs.google.com/document/d/1S0LgPXcWChE-qp6JH5C8zAIT18NNUY1zoXK6kDM-jh8/edit?usp=sharing)
+
 ## 2020
 
 - Amahi - Anubhav Singh [Amahi-iOS](https://docs.google.com/document/d/1DvkJbJkW1_yxVM_JHj_sv9TxCfHicyYi9jRbdR4HKEY/edit?usp=sharing)
