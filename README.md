@@ -2,6 +2,11 @@
 
 ### Here you can find all the proposal link of selected gsoc students of SMVDU year wise
 
+## 2022
+
+- EOS Design System - Hrishikesh Agarwal [EOS User Story](https://docs.google.com/document/d/1aofPdrn-ocUjbkwW7zmiH_0_q7r3pFcLbhkpSeuibxA/edit?usp=sharing)
+
+
 ## 2021
 
 - EOS Design System - Vinayak Sharma [EOS Icons react library](https://docs.google.com/document/d/1vPoxmkC3vPjBSDOpW4CdYqoTtDp7uPVOMxaDanwHfd8/edit?usp=sharing)
